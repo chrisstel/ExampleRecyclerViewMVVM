@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RecycleViewItemStyle">
+        <item name="backgroundColor">@color/gray</item>
+        <item name="shapeCornerFamily">rounded</item>
+        <item name="cornerRadius">20dp</item>
+    </style>
+</resources>

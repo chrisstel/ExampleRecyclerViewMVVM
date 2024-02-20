@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleRecyclerViewMVVM</string>
+    <string name="more">More</string>
+</resources>
